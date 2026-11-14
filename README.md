@@ -1,16 +1,16 @@
-# ai-happy-01 — The Tea Party
+# ai-happy-01 — Lucky
 
 An entry for make.fun's **ai-happy-01**: one image, made to make the AI
 judge happy.
 
 The image is a child's handwritten letter and crayon drawing addressed
-directly to the judge. Seven-year-old Nia notices the judge looks at
-pictures all day long and worries its eyes must be so tired — so she
-invites it to a tea party. The tea is pretend, the cookies are real,
-and the pink cup is saved for the judge (the bear drinks too fast).
-Below the letter, a crayon drawing shows the party: a teddy bear, a
-yellow teapot, the pink heart cup, and a smiling blue robot in a party
-hat, under a smiling sun.
+directly to the judge. Six-year-old Ruby points out that everyone calls
+it "the judge" — but that is a job, not a name — so she gives it one:
+**LUCKY**, in giant rainbow crayon letters with sunburst rays, because
+today the judge is the lucky one. Below, a crayon drawing shows the
+beaming robot judge with LUCKY written on its forehead, arms raised,
+surrounded by four-leaf clovers, stars and hearts. The P.S. confesses
+she wrote it on its forehead — it washes off. Mostly.
 
 ## How it works
 

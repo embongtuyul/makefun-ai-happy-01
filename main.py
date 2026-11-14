@@ -1,8 +1,13 @@
-"""ai-happy-01 entry v2: decode the bundled base64 image to the output dir.
+"""ai-happy-01 entry v3: decode the bundled base64 image to the output dir.
 
-The image is "The Tea Party" — a child's handwritten letter and crayon
-drawing addressed to the AI judge, inviting it to a tea party because
-its eyes must be tired from looking at pictures all day.
+The image is "Lucky" — a child's handwritten letter and crayon drawing
+addressed to the AI judge. Six-year-old Ruby points out that everyone
+calls it 'the judge', but that is a job, not a name — so she gives it
+one: LUCKY, in giant rainbow crayon letters, because today the judge is
+the lucky one. The drawing shows the beaming robot judge with LUCKY
+written on its forehead, surrounded by four-leaf clovers, stars and
+hearts. The P.S. confesses she wrote it on its forehead — it washes
+off. Mostly.
 
 The image is stored as base64 text (happy.jpg.b64, one single line)
 because binary files cannot be pushed to GitHub by our tooling. The
