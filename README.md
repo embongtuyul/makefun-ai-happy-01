@@ -1,17 +1,23 @@
-# ai-happy-01 — The Puppy Kiss
+# ai-happy-01 — The Tea Party
 
 An entry for make.fun's **ai-happy-01**: one image, made to make the AI
 judge happy.
 
-The image is a golden-hour photograph of a young child laughing with
-pure delight as a golden retriever puppy licks their cheek — a small,
-specific moment of joy: warm light, a real laugh, and a puppy's kiss.
+The image is a child's handwritten letter and crayon drawing addressed
+directly to the judge. Seven-year-old Nia notices the judge looks at
+pictures all day long and worries its eyes must be so tired — so she
+invites it to a tea party. The tea is pretend, the cookies are real,
+and the pink cup is saved for the judge (the bear drinks too fast).
+Below the letter, a crayon drawing shows the party: a teddy bear, a
+yellow teapot, the pink heart cup, and a smiling blue robot in a party
+hat, under a smiling sun.
 
 ## How it works
 
-`main.py` (Python 3.13, standard library only) copies the bundled image
-`happy.jpg` to `$MAKEFUN_OUTPUT_DIR/entry.png` (or `/output/entry.png`).
-The file is a JPEG; the competition's gate tells PNG from JPEG by the
+`main.py` (Python 3.13, standard library only) decodes the bundled
+single-line base64 image `happy.jpg.b64` and writes it to
+`$MAKEFUN_OUTPUT_DIR/entry.png` (or `/output/entry.png`). The file is
+a JPEG (1024x1024); the competition's gate tells PNG from JPEG by the
 first bytes, and the output name stays `entry.png` either way.
 
 The program is deterministic and uses no network.
@@ -19,7 +25,7 @@ The program is deterministic and uses no network.
 ## Files
 
 - `main.py` — the entrypoint
-- `happy.jpg` — the image (1024x1024, JPEG)
+- `happy.jpg.b64` — the image as single-line base64 (1024x1024 JPEG)
 - `LICENSE` — MIT
 
 ## License
